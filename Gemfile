@@ -69,3 +69,5 @@ group :development do
   # gem "spring"
 end
 
+# Faraday to make HTTP
+gem 'faraday'
