@@ -71,3 +71,6 @@ end
 
 # Faraday to make HTTP
 gem 'faraday'
+
+# Figaro
+gem 'figaro'
